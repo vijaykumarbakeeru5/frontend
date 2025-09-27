@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3e54a310.css",
+    "main.js": "/static/js/main.5d6e02a9.js",
+    "static/media/homepage.jpg": "/static/media/homepage.001ee6103ee16fb52291.jpg",
+    "static/media/truckdriver.jpg": "/static/media/truckdriver.86b486e0de032c750685.jpg",
+    "static/media/customerdetails.jpg": "/static/media/customerdetails.65c743e480460be9f43b.jpg",
+    "index.html": "/index.html",
+    "main.3e54a310.css.map": "/static/css/main.3e54a310.css.map",
+    "main.5d6e02a9.js.map": "/static/js/main.5d6e02a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e54a310.css",
+    "static/js/main.5d6e02a9.js"
+  ]
+}
